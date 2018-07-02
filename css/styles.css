@@ -3,3 +3,17 @@
 
 text-align: center;
 }
+
+h1{
+  color: blue;
+}
+
+h3{
+  color: purple;
+}
+
+li{
+  display: inline;
+  padding: 10px;
+  font-size: 20px;
+}
